@@ -1,0 +1,16 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.quiz-layout{
+  display: 'flex'; 
+  flex-direction: 'column'; 
+  align-items: 'center';
+}

@@ -1,0 +1,1248 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "image_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "Who is the protagonist of 'The Hunger Games: The Ballad of Songbirds & Snakes'?",
+            "options": [
+              "Katniss Everdeen",
+              "Coriolanus Snow",
+              "Peeta Mellark",
+              "Gale Hawthorne"
+            ],
+            "answer": "Coriolanus Snow"
+          },
+          {
+            "id": 2,
+            "question": "What is the setting of the story in 'The Ballad of Songbirds & Snakes'?",
+            "options": [
+              "District 12",
+              "The Capitol",
+              "District 13",
+              "District 1"
+            ],
+            "answer": "The Capitol"
+          },
+          {
+            "id": 3,
+            "question": "What is the name of the tribute assigned to Coriolanus Snow as his mentee?",
+            "options": ["Lucy Gray Baird", "Cato", "Rue", "Primrose Everdeen"],
+            "answer": "Lucy Gray Baird"
+          },
+          {
+            "id": 4,
+            "question": "What is the name of the prestigious school where Coriolanus Snow and his fellow tributes are trained?",
+            "options": [
+              "The Reaping Academy",
+              "The Hunger Games Institute",
+              "The Victor's Village School",
+              "The Academy"
+            ],
+            "answer": "The Academy"
+          },
+          {
+            "id": 5,
+            "question": "Which Hunger Games is featured in the storyline of 'The Ballad of Songbirds & Snakes'?",
+            "options": [
+              "74th Hunger Games",
+              "75th Hunger Games",
+              "10th Hunger Games",
+              "11th Hunger Games"
+            ],
+            "answer": "10th Hunger Games"
+          },
+          {
+            "id": 6,
+            "question": "What is the significance of the Mockingjay in the story?",
+            "options": [
+              "It's a symbol of rebellion",
+              "It's a Capitol emblem",
+              "It represents peace",
+              "It's a tribute's token"
+            ],
+            "answer": "It's a symbol of rebellion"
+          },
+          {
+            "id": 7,
+            "question": "Why does Coriolanus Snow volunteer as a mentor for the Hunger Games tributes?",
+            "options": [
+              "To gain power and influence",
+              "To protect his family",
+              "To impress President Snow",
+              "To rebel against the Capitol"
+            ],
+            "answer": "To protect his family"
+          },
+          {
+            "id": 8,
+            "question": "What is the main industry of District 12 in 'The Ballad of Songbirds & Snakes'?",
+            "options": ["Mining", "Agriculture", "Fishing", "Technology"],
+            "answer": "Mining"
+          },
+          {
+            "id": 9,
+            "question": "How does Coriolanus Snow's relationship with Lucy Gray Baird evolve throughout the story?",
+            "options": [
+              "They become close allies",
+              "They fall in love",
+              "They become bitter enemies",
+              "They have no significant interaction"
+            ],
+            "answer": "They fall in love"
+          },
+          {
+            "id": 10,
+            "question": "In the epilogue of the book, what is revealed about the fate of Coriolanus Snow?",
+            "options": [
+              "He becomes a Hunger Games victor",
+              "He is imprisoned for crimes against humanity",
+              "He becomes the President of Panem",
+              "He succumbs to a fatal illness"
+            ],
+            "answer": "He becomes the President of Panem"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Aquaman and the Lost Kingdom",
+      "image_path": "/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "Who plays the role of Aquaman in 'Aquaman and the Lost Kingdom'?",
+            "options": [
+              "Chris Hemsworth",
+              "Jason Momoa",
+              "Henry Cavill",
+              "Gal Gadot"
+            ],
+            "answer": "Jason Momoa"
+          },
+          {
+            "id": 2,
+            "question": "What is the name of the underwater kingdom in the movie?",
+            "options": ["Atlantis", "Themyscira", "Wakanda", "Asgard"],
+            "answer": "Atlantis"
+          },
+          {
+            "id": 3,
+            "question": "Who is the main antagonist in 'Aquaman and the Lost Kingdom'?",
+            "options": ["Black Manta", "Orm", "Ocean Master", "King Nereus"],
+            "answer": "Black Manta"
+          },
+          {
+            "id": 4,
+            "question": "What is Aquaman's real name?",
+            "options": [
+              "Arthur Curry",
+              "Bruce Wayne",
+              "Clark Kent",
+              "Barry Allen"
+            ],
+            "answer": "Arthur Curry"
+          },
+          {
+            "id": 5,
+            "question": "Which actress plays the role of Mera in the movie?",
+            "options": [
+              "Amber Heard",
+              "Nicole Kidman",
+              "Zendaya",
+              "Emily Blunt"
+            ],
+            "answer": "Amber Heard"
+          },
+          {
+            "id": 6,
+            "question": "What is the main quest or mission that Aquaman embarks on in the movie?",
+            "options": [
+              "Retrieve a powerful artifact",
+              "Defend Atlantis from invasion",
+              "Find lost treasure",
+              "Unite the Seven Kingdoms"
+            ],
+            "answer": "Retrieve a powerful artifact"
+          },
+          {
+            "id": 7,
+            "question": "Which director helmed 'Aquaman and the Lost Kingdom'?",
+            "options": [
+              "James Cameron",
+              "Zack Snyder",
+              "Patty Jenkins",
+              "James Wan"
+            ],
+            "answer": "James Wan"
+          },
+          {
+            "id": 8,
+            "question": "What is the name of Aquaman's trident in the movie?",
+            "options": [
+              "Poseidon's Wrath",
+              "Neptune's Fury",
+              "Atlantean Justice",
+              "The Trident of Atlantis"
+            ],
+            "answer": "The Trident of Atlantis"
+          },
+          {
+            "id": 9,
+            "question": "Which underwater creature aids Aquaman on his journey?",
+            "options": ["Dolphin", "Shark", "Giant Squid", "Sea Serpent"],
+            "answer": "Giant Squid"
+          },
+          {
+            "id": 10,
+            "question": "What is the primary threat to Atlantis in the movie?",
+            "options": [
+              "Tidal wave",
+              "Underwater earthquakes",
+              "Rebellion from within",
+              "Dark magic"
+            ],
+            "answer": "Rebellion from within"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Wonka",
+      "image_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "Who is set to play the role of Willy Wonka in the movie 'Wonka'?",
+            "options": [
+              "Johnny Depp",
+              "Timothée Chalamet",
+              "Tom Holland",
+              "Ryan Gosling"
+            ],
+            "answer": "Timothée Chalamet"
+          },
+          {
+            "id": 2,
+            "question": "What is the name of Willy Wonka's famous chocolate factory?",
+            "options": [
+              "Everlasting Sweets Factory",
+              "Whipple-Scrumptious Fudgemallow Delight",
+              "Golden Ticket Confections",
+              "Sweet Tooth Paradise"
+            ],
+            "answer": "Whipple-Scrumptious Fudgemallow Delight"
+          },
+          {
+            "id": 3,
+            "question": "What is the primary reason Willy Wonka decides to open his factory to the public?",
+            "options": [
+              "Marketing Stunt",
+              "Search for an Heir",
+              "Celebrating a Milestone",
+              "Sharing Happiness"
+            ],
+            "answer": "Search for an Heir"
+          },
+          {
+            "id": 4,
+            "question": "What is the name of the river inside Willy Wonka's chocolate factory?",
+            "options": [
+              "Caramel Creek",
+              "Molten Chocolate River",
+              "Liquorice Lagoon",
+              "Gummy Gorge"
+            ],
+            "answer": "Molten Chocolate River"
+          },
+          {
+            "id": 5,
+            "question": "What is the significance of the Golden Tickets in 'Wonka'?",
+            "options": [
+              "Access to Willy Wonka's Factory Tour",
+              "Lifetime Supply of Chocolate",
+              "Exclusive Movie Premiere Pass",
+              "A Chance to Meet Willy Wonka"
+            ],
+            "answer": "Access to Willy Wonka's Factory Tour"
+          },
+          {
+            "id": 6,
+            "question": "Who accompanies Charlie Bucket on the factory tour?",
+            "options": [
+              "Grandpa Joe",
+              "Mr. Bucket",
+              "Mrs. Bucket",
+              "Veruca Salt"
+            ],
+            "answer": "Grandpa Joe"
+          },
+          {
+            "id": 7,
+            "question": "What unique trait does the Oompa-Loompa community possess?",
+            "options": [
+              "Superhuman Strength",
+              "Invisibility",
+              "Exceptional Musical Talent",
+              "Teleportation"
+            ],
+            "answer": "Exceptional Musical Talent"
+          },
+          {
+            "id": 8,
+            "question": "What happens to the disobedient children during the factory tour?",
+            "options": [
+              "Sent to the Principal's Office",
+              "Transformed into Oompa-Loompas",
+              "Expelled from the Factory",
+              "Given Extra Homework"
+            ],
+            "answer": "Transformed into Oompa-Loompas"
+          },
+          {
+            "id": 9,
+            "question": "What is the ultimate lesson learned by the main character in 'Wonka'?",
+            "options": [
+              "The Importance of Family",
+              "The Power of Imagination",
+              "The Sweetness of Success",
+              "The Consequences of Greed"
+            ],
+            "answer": "The Power of Imagination"
+          },
+          {
+            "id": 10,
+            "question": "In the end, what happens to Willy Wonka and the Chocolate Factory?",
+            "options": [
+              "Closes Down",
+              "Expands Globally",
+              "Becomes a Museum",
+              "Floats into the Sky"
+            ],
+            "answer": "Floats into the Sky"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "The Family Plan",
+      "image_path": "/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "In 'The Family Plan,' what is the main premise of the family's plan?",
+            "options": [
+              "Vacation Around the World",
+              "Adopting a Pet",
+              "Financial Investment",
+              "Identity Swap"
+            ],
+            "answer": "Vacation Around the World"
+          },
+          {
+            "id": 2,
+            "question": "What unexpected challenges do the family members face during their global adventure?",
+            "options": [
+              "Cultural Misunderstandings",
+              "Lost Luggage",
+              "Weather Disasters",
+              "International Crime Syndicate"
+            ],
+            "answer": "International Crime Syndicate"
+          },
+          {
+            "id": 3,
+            "question": "How does the family's plan affect their relationships with each other?",
+            "options": [
+              "Brings them Closer",
+              "Creates Tension",
+              "No Impact on Relationships",
+              "Leads to Family Breakup"
+            ],
+            "answer": "Brings them Closer"
+          },
+          {
+            "id": 4,
+            "question": "What valuable lesson do the family members learn by the end of the movie?",
+            "options": [
+              "Material Possessions are Important",
+              "Family is the Greatest Treasure",
+              "Success Requires Sacrifice",
+              "Never Trust Strangers"
+            ],
+            "answer": "Family is the Greatest Treasure"
+          },
+          {
+            "id": 5,
+            "question": "What comedic elements are featured in 'The Family Plan'?",
+            "options": [
+              "Slapstick Comedy",
+              "Witty Dialogue",
+              "Situational Comedy",
+              "Dark Humor"
+            ],
+            "answer": "Situational Comedy"
+          },
+          {
+            "id": 6,
+            "question": "Who is the mastermind behind the family's ambitious plan?",
+            "options": [
+              "The Youngest Child",
+              "The Grandparent",
+              "The Family Pet",
+              "The Parental Figure"
+            ],
+            "answer": "The Parental Figure"
+          },
+          {
+            "id": 7,
+            "question": "What is the significance of the movie's title, 'The Family Plan'?",
+            "options": [
+              "Financial Blueprint",
+              "Secret Agenda",
+              "Travel Itinerary",
+              "Life Strategy"
+            ],
+            "answer": "Life Strategy"
+          },
+          {
+            "id": 8,
+            "question": "Which exotic locations does the family visit during their journey?",
+            "options": ["Paris", "Tokyo", "Rio de Janeiro", "All of the Above"],
+            "answer": "All of the Above"
+          },
+          {
+            "id": 9,
+            "question": "What unexpected twist occurs halfway through the family's plan?",
+            "options": [
+              "Time Travel",
+              "Alien Encounter",
+              "Government Conspiracy",
+              "Parallel Universe"
+            ],
+            "answer": "Parallel Universe"
+          },
+          {
+            "id": 10,
+            "question": "How does 'The Family Plan' conclude?",
+            "options": [
+              "Open-Ended, Leaving Room for a Sequel",
+              "Happy Family Reunion",
+              "Unexpected Tragedy",
+              "Celebration of Success"
+            ],
+            "answer": "Happy Family Reunion"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Silent Night",
+      "image_path": "/tlcuhdNMKNGEVpGqBZrAaOOf1A6.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "In 'Silent Night,' what unusual event occurs during a Christmas dinner?",
+            "options": [
+              "Alien Invasion",
+              "Time Travel",
+              "Zombie Apocalypse",
+              "Natural Disaster"
+            ],
+            "answer": "Alien Invasion"
+          },
+          {
+            "id": 2,
+            "question": "How do the characters in the movie react to the unexpected event?",
+            "options": [
+              "Panic and Chaos",
+              "Calm Acceptance",
+              "Heroic Attempts to Save the Day",
+              "Denial and Disbelief"
+            ],
+            "answer": "Heroic Attempts to Save the Day"
+          },
+          {
+            "id": 3,
+            "question": "What is the central message or theme of 'Silent Night'?",
+            "options": [
+              "Importance of Family",
+              "Environmental Conservation",
+              "Survival Instincts",
+              "The Spirit of Christmas"
+            ],
+            "answer": "The Spirit of Christmas"
+          },
+          {
+            "id": 4,
+            "question": "How does the movie balance dark humor with its serious subject matter?",
+            "options": [
+              "Satirical Dialogue",
+              "Comedic Situations",
+              "Ironic Narration",
+              "Whimsical Visuals"
+            ],
+            "answer": "Satirical Dialogue"
+          },
+          {
+            "id": 5,
+            "question": "What role does the Christmas setting play in the overall narrative of 'Silent Night'?",
+            "options": [
+              "Symbol of Hope",
+              "Backdrop for Chaos",
+              "Metaphor for Renewal",
+              "Inconsequential to the Plot"
+            ],
+            "answer": "Backdrop for Chaos"
+          },
+          {
+            "id": 6,
+            "question": "Which character becomes an unexpected hero during the crisis?",
+            "options": [
+              "Young Child",
+              "Grumpy Neighbor",
+              "Pet Animal",
+              "Ordinary Bystander"
+            ],
+            "answer": "Ordinary Bystander"
+          },
+          {
+            "id": 7,
+            "question": "How does 'Silent Night' subvert traditional Christmas movie tropes?",
+            "options": [
+              "Happy Endings for All",
+              "Santa Claus Intervention",
+              "Miraculous Resolutions",
+              "No Redemption Arcs"
+            ],
+            "answer": "No Redemption Arcs"
+          },
+          {
+            "id": 8,
+            "question": "What is the symbolic meaning behind the movie's title, 'Silent Night'?",
+            "options": [
+              "Calm Before the Storm",
+              "Absence of Christmas Cheer",
+              "Peaceful Resolution",
+              "Suspenseful Atmosphere"
+            ],
+            "answer": "Suspenseful Atmosphere"
+          },
+          {
+            "id": 9,
+            "question": "What is the ultimate message or lesson conveyed in 'Silent Night'?",
+            "options": [
+              "Cherish Moments with Loved Ones",
+              "Be Prepared for the Unexpected",
+              "Questioning Societal Norms",
+              "Appreciate the Simple Things in Life"
+            ],
+            "answer": "Be Prepared for the Unexpected"
+          },
+          {
+            "id": 10,
+            "question": "How does 'Silent Night' blend dark humor with serious themes?",
+            "options": [
+              "Satirical Dialogue",
+              "Unexpected Plot Twists",
+              "Irony in Character Actions",
+              "Contrast in Visual Style"
+            ],
+            "answer": "Satirical Dialogue"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Oppenheimer",
+      "image_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "Who is the central figure in the movie 'Oppenheimer'?",
+            "options": [
+              "J. Robert Oppenheimer",
+              "Albert Einstein",
+              "Enrico Fermi",
+              "Niels Bohr"
+            ],
+            "answer": "J. Robert Oppenheimer"
+          },
+          {
+            "id": 2,
+            "question": "What is the main focus or theme of 'Oppenheimer'?",
+            "options": [
+              "World War I",
+              "Cold War Espionage",
+              "The Space Race",
+              "The Manhattan Project"
+            ],
+            "answer": "The Manhattan Project"
+          },
+          {
+            "id": 3,
+            "question": "Who directed the movie 'Oppenheimer'?",
+            "options": [
+              "Christopher Nolan",
+              "Steven Spielberg",
+              "Paul Thomas Anderson",
+              "Terrence Malick"
+            ],
+            "answer": "Christopher Nolan"
+          },
+          {
+            "id": 4,
+            "question": "What is the historical significance of J. Robert Oppenheimer?",
+            "options": [
+              "Inventor of the Internet",
+              "Leader of the Civil Rights Movement",
+              "Architect of the Atomic Bomb",
+              "Explorer of the South Pole"
+            ],
+            "answer": "Architect of the Atomic Bomb"
+          },
+          {
+            "id": 5,
+            "question": "Where does most of the action in 'Oppenheimer' take place?",
+            "options": ["Los Angeles", "Berlin", "New Mexico", "Tokyo"],
+            "answer": "New Mexico"
+          },
+          {
+            "id": 6,
+            "question": "What ethical dilemmas does J. Robert Oppenheimer face during the movie?",
+            "options": [
+              "Environmental Conservation",
+              "Human Experimentation",
+              "Weapons of Mass Destruction",
+              "Cloning"
+            ],
+            "answer": "Weapons of Mass Destruction"
+          },
+          {
+            "id": 7,
+            "question": "How does the movie portray the moral consequences of scientific discovery?",
+            "options": [
+              "Celebrates Unbridled Progress",
+              "Warns Against Playing God",
+              "Advocates for Unrestricted Research",
+              "Downplays Ethical Concerns"
+            ],
+            "answer": "Warns Against Playing God"
+          },
+          {
+            "id": 8,
+            "question": "Who plays the role of J. Robert Oppenheimer in the movie?",
+            "options": [
+              "Tom Hanks",
+              "Brad Pitt",
+              "Leonardo DiCaprio",
+              "Cillian Murphy"
+            ],
+            "answer": "Cillian Murphy"
+          },
+          {
+            "id": 9,
+            "question": "What historical events or decisions related to the atomic bomb are explored in 'Oppenheimer'?",
+            "options": [
+              "Hiroshima and Nagasaki bombings",
+              "Cuban Missile Crisis",
+              "Space Race",
+              "Vietnam War"
+            ],
+            "answer": "Hiroshima and Nagasaki bombings"
+          },
+          {
+            "id": 10,
+            "question": "In the context of the movie, what is J. Robert Oppenheimer's perspective on the use of atomic weapons?",
+            "options": [
+              "Justified for National Security",
+              "Regret and Moral Reflection",
+              "Advocates for More Use",
+              "No Opinion"
+            ],
+            "answer": "Regret and Moral Reflection"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Thanksgiving",
+      "image_path": "/mJaqjYcQ1CclhHmO6Z3iMIGUP0Y.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "In 'Thanksgiving,' what is the central theme of the story?",
+            "options": [
+              "Family Reunion",
+              "Historical Retelling",
+              "Political Drama",
+              "Survival Adventure"
+            ],
+            "answer": "Family Reunion"
+          },
+          {
+            "id": 2,
+            "question": "Who is the main character around whom the Thanksgiving events unfold?",
+            "options": ["Grandparent", "Parent", "Teenager", "Child"],
+            "answer": "Teenager"
+          },
+          {
+            "id": 3,
+            "question": "Where does the Thanksgiving celebration take place in the movie?",
+            "options": [
+              "Traditional Home Setting",
+              "Vacation Resort",
+              "Spaceship",
+              "Historical Landmark"
+            ],
+            "answer": "Traditional Home Setting"
+          },
+          {
+            "id": 4,
+            "question": "What is the central conflict or challenge faced by the characters during Thanksgiving?",
+            "options": [
+              "Cooking Disaster",
+              "Unexpected Guests",
+              "Family Feud",
+              "Search for a Lost Item"
+            ],
+            "answer": "Unexpected Guests"
+          },
+          {
+            "id": 5,
+            "question": "Who plays a significant role in bringing the family together in 'Thanksgiving'?",
+            "options": [
+              "Wise Grandparent",
+              "Mischievous Sibling",
+              "Neighbor",
+              "Pet"
+            ],
+            "answer": "Wise Grandparent"
+          },
+          {
+            "id": 6,
+            "question": "How does the movie explore cultural or generational differences during Thanksgiving?",
+            "options": [
+              "Through Traditional Rituals",
+              "Through Flashbacks",
+              "Through Comedic Misunderstandings",
+              "Through a Time-Travel Plot"
+            ],
+            "answer": "Through Comedic Misunderstandings"
+          },
+          {
+            "id": 7,
+            "question": "What unique Thanksgiving traditions or customs are introduced in the movie?",
+            "options": [
+              "Secret Gift Exchange",
+              "Costume Contest",
+              "Memory Sharing",
+              "Outdoor Adventure"
+            ],
+            "answer": "Memory Sharing"
+          },
+          {
+            "id": 8,
+            "question": "How does the movie balance humor and heartwarming moments during the Thanksgiving celebration?",
+            "options": [
+              "Slapstick Comedy",
+              "Sentimental Dialogue",
+              "Unexpected Plot Twists",
+              "Emotional Performances"
+            ],
+            "answer": "Sentimental Dialogue"
+          },
+          {
+            "id": 9,
+            "question": "What is the significance of the Thanksgiving meal in the movie?",
+            "options": [
+              "Symbol of Unity",
+              "Culinary Competition",
+              "Plot Device",
+              "Setting for a Major Revelation"
+            ],
+            "answer": "Symbol of Unity"
+          },
+          {
+            "id": 10,
+            "question": "How does 'Thanksgiving' convey a message of gratitude and appreciation?",
+            "options": [
+              "Through Expressing Thanks",
+              "Through Gift-Giving",
+              "Through Acts of Kindness",
+              "Through a Thanksgiving Parade"
+            ],
+            "answer": "Through Acts of Kindness"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Chicken Run: Dawn of the Nugget",
+      "image_path": "/exNtEY8QUuQh9e23wSQjkPxKIU3.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "In 'Chicken Run: Dawn of the Nugget,' what is the main goal of the chicken characters?",
+            "options": [
+              "Escape the Farm",
+              "Win a Talent Show",
+              "Build a Chicken Paradise",
+              "Start a Chicken Revolution"
+            ],
+            "answer": "Escape the Farm"
+          },
+          {
+            "id": 2,
+            "question": "Who is the leader of the chicken rebellion in the movie?",
+            "options": ["Rocky the Rooster", "Ginger", "Babs", "Fowler"],
+            "answer": "Ginger"
+          },
+          {
+            "id": 3,
+            "question": "What new threat do the chickens face in 'Chicken Run: Dawn of the Nugget'?",
+            "options": [
+              "Alien Invasion",
+              "Giant Robot Chickens",
+              "Evil Farmer's Son",
+              "Chicken-Hunting Fox"
+            ],
+            "answer": "Giant Robot Chickens"
+          },
+          {
+            "id": 4,
+            "question": "How do the chickens plan to overcome the new threat?",
+            "options": [
+              "Form an Alliance with Other Farm Animals",
+              "Build an Underground Bunker",
+              "Develop Special Chicken Powers",
+              "Outsmart the Robot Chickens"
+            ],
+            "answer": "Outsmart the Robot Chickens"
+          },
+          {
+            "id": 5,
+            "question": "What role does Rocky the Rooster play in the sequel?",
+            "options": [
+              "Betrayal and Joining the Villains",
+              "Becoming a Chicken Mentor",
+              "Leading the Nugget Revolution",
+              "Retiring from Chicken Life"
+            ],
+            "answer": "Leading the Nugget Revolution"
+          },
+          {
+            "id": 6,
+            "question": "What new characters are introduced in 'Chicken Run: Dawn of the Nugget'?",
+            "options": [
+              "Super Chick, the Marvelous Hen",
+              "Tech-Savvy Duck",
+              "Ninja Turkey",
+              "Chick Magnet, the Charismatic Rooster"
+            ],
+            "answer": "Tech-Savvy Duck"
+          },
+          {
+            "id": 7,
+            "question": "What is the significance of the 'Nugget' in the movie's title?",
+            "options": [
+              "Legendary Chicken Artifact",
+              "Secret Chicken Code",
+              "Delicious Chicken Dish",
+              "Symbol of Freedom"
+            ],
+            "answer": "Symbol of Freedom"
+          },
+          {
+            "id": 8,
+            "question": "How does the animation style or visual presentation evolve in 'Chicken Run: Dawn of the Nugget'?",
+            "options": [
+              "Realistic CGI Chickens",
+              "Hand-Drawn Animation",
+              "3D Holographic Chickens",
+              "Black and White Chicken Noir"
+            ],
+            "answer": "Realistic CGI Chickens"
+          },
+          {
+            "id": 9,
+            "question": "What important life lesson do the chickens learn in the sequel?",
+            "options": [
+              "The Importance of Teamwork",
+              "Never Trust a Robot Chicken",
+              "The Value of Friendship",
+              "Always Check for Nugget Traps"
+            ],
+            "answer": "The Importance of Teamwork"
+          },
+          {
+            "id": 10,
+            "question": "In the end, what is the fate of the farm in 'Chicken Run: Dawn of the Nugget'?",
+            "options": [
+              "Transforms into a Chicken Sanctuary",
+              "Becomes a Theme Park",
+              "Taken Over by Robot Chickens",
+              "Returns to Normal Farm Life"
+            ],
+            "answer": "Transforms into a Chicken Sanctuary"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "Rebel Moon - Part One: A Child of Fire",
+      "image_path": "/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "In 'Rebel Moon - Part One: A Child of Fire,' what is the central conflict or struggle faced by the protagonist?",
+            "options": [
+              "Interstellar War",
+              "Internal Strife within Rebel Forces",
+              "Search for a Lost Artifact",
+              "Environmental Catastrophe"
+            ],
+            "answer": "Interstellar War"
+          },
+          {
+            "id": 2,
+            "question": "Who is the main antagonist threatening the Rebel Moon in the movie?",
+            "options": [
+              "Evil Empress",
+              "Power-Hungry General",
+              "Rogue AI",
+              "Rebel Traitor"
+            ],
+            "answer": "Evil Empress"
+          },
+          {
+            "id": 3,
+            "question": "What is the significance of 'A Child of Fire' in the movie's title?",
+            "options": [
+              "Prophecy of a Powerful Child",
+              "Code Name for a Secret Weapon",
+              "Symbolic Birth of a Rebellion",
+              "Reference to a Celestial Event"
+            ],
+            "answer": "Prophecy of a Powerful Child"
+          },
+          {
+            "id": 4,
+            "question": "How does the Rebel Moon prepare for the impending war?",
+            "options": [
+              "Building an Army of Mechs",
+              "Forming Alliances with Alien Species",
+              "Launching Guerrilla Attacks",
+              "Constructing a Planetary Shield"
+            ],
+            "answer": "Forming Alliances with Alien Species"
+          },
+          {
+            "id": 5,
+            "question": "Who is revealed to be the 'Child of Fire' and why is their role crucial in the conflict?",
+            "options": [
+              "Destined Heir to the Rebel Throne",
+              "Genetically Engineered Super Soldier",
+              "Chosen One with Elemental Powers",
+              "Strategist with Unparalleled Intelligence"
+            ],
+            "answer": "Chosen One with Elemental Powers"
+          },
+          {
+            "id": 6,
+            "question": "What unique locations or planets are featured in 'Rebel Moon - Part One'?",
+            "options": [
+              "Lava-Filled Planet",
+              "Frozen Wasteland",
+              "Floating City in the Clouds",
+              "Underwater Rebel Base"
+            ],
+            "answer": "Floating City in the Clouds"
+          },
+          {
+            "id": 7,
+            "question": "How does the movie explore themes of rebellion and resistance?",
+            "options": [
+              "Political Intrigue",
+              "Underground Movements",
+              "Sabotage Missions",
+              "Symbolic Acts of Defiance"
+            ],
+            "answer": "Symbolic Acts of Defiance"
+          },
+          {
+            "id": 8,
+            "question": "What advanced technology is showcased in 'Rebel Moon - Part One'?",
+            "options": [
+              "Warp Drives",
+              "Teleportation Devices",
+              "Energy Shields",
+              "Mind-Controlled Weapons"
+            ],
+            "answer": "Energy Shields"
+          },
+          {
+            "id": 9,
+            "question": "Who leads the Rebel Moon forces in the battle against the Evil Empress?",
+            "options": [
+              "Seasoned General",
+              "Reluctant Hero",
+              "Brilliant Strategist",
+              "Mysterious Outsider"
+            ],
+            "answer": "Seasoned General"
+          },
+          {
+            "id": 10,
+            "question": "What is the ultimate fate of the Rebel Moon in 'A Child of Fire'?",
+            "options": [
+              "Total Annihilation",
+              "Victorious Independence",
+              "Subjugation by the Evil Empress",
+              "Transforms into a Mobile Fortress"
+            ],
+            "answer": "Victorious Independence"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "title": "How the Grinch Stole Christmas",
+      "image_path": "/52EpMoLTTbKAkM6rSrnNHV2mpLF.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "In 'How the Grinch Stole Christmas,' what is the Grinch's main motivation for hating Christmas?",
+            "options": [
+              "Lack of Presents",
+              "Noise and Celebration",
+              "Unpleasant Childhood Memories",
+              "Loneliness"
+            ],
+            "answer": "Noise and Celebration"
+          },
+          {
+            "id": 2,
+            "question": "Who plays the role of the Grinch in the movie?",
+            "options": [
+              "Jim Carrey",
+              "Tom Hanks",
+              "Johnny Depp",
+              "Will Ferrell"
+            ],
+            "answer": "Jim Carrey"
+          },
+          {
+            "id": 3,
+            "question": "What is the name of the town where the Grinch lives?",
+            "options": ["Whoville", "Grinchville", "Christmasville", "Hoville"],
+            "answer": "Whoville"
+          },
+          {
+            "id": 4,
+            "question": "What is the Grinch's plan to stop Christmas in Whoville?",
+            "options": [
+              "Stealing Presents",
+              "Canceling Christmas Tree Lighting",
+              "Blocking Chimneys",
+              "Convincing Everyone to Leave Town"
+            ],
+            "answer": "Stealing Presents"
+          },
+          {
+            "id": 5,
+            "question": "Who is the little girl in 'How the Grinch Stole Christmas' who befriends the Grinch?",
+            "options": [
+              "Cindy Lou Who",
+              "Betty Lou Who",
+              "Lucy Lou Who",
+              "Mindy Lou Who"
+            ],
+            "answer": "Cindy Lou Who"
+          },
+          {
+            "id": 6,
+            "question": "What unexpected change occurs in the Grinch's heart during the story?",
+            "options": [
+              "Growing Three Sizes",
+              "Turning Green",
+              "Learning to Fly",
+              "Becoming a Master Chef"
+            ],
+            "answer": "Growing Three Sizes"
+          },
+          {
+            "id": 7,
+            "question": "What does the Grinch dress up as during his attempt to steal Christmas?",
+            "options": ["Santa Claus", "Snowman", "Reindeer", "Christmas Elf"],
+            "answer": "Santa Claus"
+          },
+          {
+            "id": 8,
+            "question": "What lesson does the Grinch learn by the end of the movie?",
+            "options": [
+              "The True Meaning of Christmas",
+              "The Art of Forgiveness",
+              "The Importance of Giving",
+              "The Joy of Friendship"
+            ],
+            "answer": "The True Meaning of Christmas"
+          },
+          {
+            "id": 9,
+            "question": "Who narrates the story of 'How the Grinch Stole Christmas'?",
+            "options": [
+              "Morgan Freeman",
+              "Anthony Hopkins",
+              "Benedict Cumberbatch",
+              "Boris Karloff"
+            ],
+            "answer": "Boris Karloff"
+          },
+          {
+            "id": 10,
+            "question": "What iconic Christmas item does the Grinch return to Whoville at the end?",
+            "options": ["Christmas Tree", "Mistletoe", "Sleigh", "Snow Globe"],
+            "answer": "Christmas Tree"
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "title": "The Grinch",
+      "image_path": "/1Bc9VNd9CIHIyJtPKFqSQzrXWru.jpg",
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": "In 'The Grinch,' who voices the character of the Grinch?",
+            "options": [
+              "Jim Carrey",
+              "Benedict Cumberbatch",
+              "Will Ferrell",
+              "Johnny Depp"
+            ],
+            "answer": "Benedict Cumberbatch"
+          },
+          {
+            "id": 2,
+            "question": "What is the Grinch's pet dog's name?",
+            "options": ["Max", "Buddy", "Spike", "Charlie"],
+            "answer": "Max"
+          },
+          {
+            "id": 3,
+            "question": "How does the Grinch plan to ruin Christmas in 'The Grinch'?",
+            "options": [
+              "Stealing Presents",
+              "Freezing Whoville",
+              "Cancelling Christmas Feast",
+              "Banning Christmas Music"
+            ],
+            "answer": "Stealing Presents"
+          },
+          {
+            "id": 4,
+            "question": "What unique invention does the Grinch create to disguise himself while stealing presents?",
+            "options": [
+              "Invisibility Cloak",
+              "Santa Robot",
+              "Christmas Costume",
+              "Sleigh Transformation Machine"
+            ],
+            "answer": "Santa Robot"
+          },
+          {
+            "id": 5,
+            "question": "Who is the character that tries to befriend the Grinch in 'The Grinch'?",
+            "options": [
+              "Cindy Lou Who",
+              "Betty Lou Who",
+              "Lucy Lou Who",
+              "Mindy Lou Who"
+            ],
+            "answer": "Cindy Lou Who"
+          },
+          {
+            "id": 6,
+            "question": "What heartfelt gesture does Cindy Lou Who make to the Grinch?",
+            "options": [
+              "Inviting him to Christmas Dinner",
+              "Handmade Christmas Card",
+              "Singing Christmas Carols",
+              "Giving Him a Gift"
+            ],
+            "answer": "Handmade Christmas Card"
+          },
+          {
+            "id": 7,
+            "question": "What is the Grinch's real reason for hating Christmas in 'The Grinch'?",
+            "options": [
+              "Loneliness",
+              "Dislike of Presents",
+              "Unpleasant Memories",
+              "Allergic to Christmas Trees"
+            ],
+            "answer": "Loneliness"
+          },
+          {
+            "id": 8,
+            "question": "What is the turning point that changes the Grinch's perspective on Christmas?",
+            "options": [
+              "A Whoville Feast",
+              "Cindy Lou Who's Kindness",
+              "A Magical Snowfall",
+              "A Visit from Santa Claus"
+            ],
+            "answer": "Cindy Lou Who's Kindness"
+          },
+          {
+            "id": 9,
+            "question": "Who narrates the story in 'The Grinch'?",
+            "options": [
+              "Morgan Freeman",
+              "Anthony Hopkins",
+              "Benedict Cumberbatch",
+              "Boris Karloff"
+            ],
+            "answer": "Pharrell Williams"
+          },
+          {
+            "id": 10,
+            "question": "What is the ultimate message of 'The Grinch'?",
+            "options": [
+              "The True Meaning of Christmas",
+              "The Power of Friendship",
+              "The Joy of Giving",
+              "The Importance of Family"
+            ],
+            "answer": "The True Meaning of Christmas"
+          }
+        ]
+      }
+    }
+  ]
+}
